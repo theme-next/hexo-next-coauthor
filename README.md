@@ -1,5 +1,8 @@
 # Hexo Next Coauthor
 
+![Theme Version](https://img.shields.io/badge/NexT-v7.3.0+-blue?style=flat-square)
+![Package Version](https://img.shields.io/github/package-json/v/theme-next/hexo-next-coauthor?style=flat-square)
+
 Add coauthor post meta for NexT theme
 
 ![image](https://user-images.githubusercontent.com/15902347/63995254-7bf17f00-cb2a-11e9-8df5-2a6b07697aea.png)
@@ -19,7 +22,7 @@ coauthor: Mr.J
 
 ```yml
 title: Hello! NexT Test Site
-coauthor: 
+coauthor:
   - Mr.J
   - Jone
 ```
