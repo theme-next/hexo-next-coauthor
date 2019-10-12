@@ -10,7 +10,7 @@ Add coauthor post meta for NexT theme
 ## Install
 
 ```bash
-npm i --save theme-next/hexo-next-coauthor
+npm install theme-next/hexo-next-coauthor
 ```
 
 Used in front-matter
